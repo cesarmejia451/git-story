@@ -1,2 +1,3 @@
 Hello, this is a story about my first day of class
 This is my first project adding a story using a program called Git X. So far the project is moving smoothly.
+Hopefully, the rest of the projects will go this smoothly. 
